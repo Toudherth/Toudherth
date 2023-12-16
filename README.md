@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Chaque idée de design peut être adaptée à votre style personnel et à vos compétences. Il est important que votre portfolio reflète non seulement vos compétences techniques mais aussi votre personnalité et votre approche unique en tant que développeur.
+Mme. Toudherth est une développeuse web et informatique dotée d'une formation approfondie et d'une expérience variée. Etudiante en Master en Génie Logiciel de l'Université de Montpellier
 
 <!--
 **Toudherth/Toudherth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
