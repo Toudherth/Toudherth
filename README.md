@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-Toudherth est une développeuse web et informatique dotée d'une formation approfondie et d'une expérience variée. Etudiante en Master en Génie Logiciel de l'Université de Montpellier.
+**Toudherth** est une ✨ _développeuse web_ ✨ et informatique dotée d'une formation approfondie et d'une expérience variée. Etudiante en Master en Génie Logiciel de l'Université de Montpellier.
 
 
-**Toudherth/Toudherth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
