@@ -1,5 +1,14 @@
 ###  👋 Hi there, I'm Toudherth 
 
+
+<p align="center">
+  <img src="link_to_your_image.png" alt="image_alt_text"/>
+  <h1 align="center">Bonjour, je suis Adam S</h1>
+</p>
+
+
+
+
 **Toudherth** est une ✨ _développeuse web_ ✨ et informatique dotée d'une formation approfondie et d'une expérience variée. Etudiante en Master en Génie Logiciel de l'Université de Montpellier.
 
 
