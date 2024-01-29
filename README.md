@@ -6,9 +6,9 @@
 
 
 
-* 🌱 Product Owner @LaPosteGroupe
+* 🌱 Developpeuse fullStack chez @Atos
 * 🎓 Master Génie Logiciel
-* 🔗 [Mon site](URL_de_votre_site)
+* 🔗 [Mon portfolio](https://portfolio-toudherths-projects.vercel.app/)
 
 ## Mes compétences
 ![React](lien_vers_image_react)
