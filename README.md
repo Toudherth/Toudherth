@@ -1,8 +1,8 @@
-### Hi there 👋
+###  👋 Hi there, I'm Toudherth 
 
 **Toudherth** est une ✨ _développeuse web_ ✨ et informatique dotée d'une formation approfondie et d'une expérience variée. Etudiante en Master en Génie Logiciel de l'Université de Montpellier.
 
-# 👋 Bonjour, je suis Toudherth 
+
 
 * 🌱 Product Owner @LaPosteGroupe
 * 🎓 Master Génie Logiciel
