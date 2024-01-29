@@ -6,7 +6,7 @@
 
 
 
-* 🌱 Developpeuse fullStack chez @Atos
+* 🌱 Developpeuse FullStack chez @Atos
 * 🎓 Master Génie Logiciel
 * 🌐 [Mon portfolio](https://portfolio-toudherths-projects.vercel.app/)
 
