@@ -11,16 +11,10 @@
 * 🔗 [Mon portfolio](https://portfolio-toudherths-projects.vercel.app/)
 
 ## Mes compétences
-![React](lien_vers_image_react)
-![Angular](lien_vers_image_angular)
-![Node.js](lien_vers_image_nodejs)
-... et ainsi de suite pour chaque compétence
 
-<p align="center">
-  <!-- Ici, vous pouvez ajouter des badges ou des images pour représenter vos compétences -->
-  <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" alt="badge_alt_text"/>
-  <!-- Répétez la ligne ci-dessus pour chaque compétence ou badge -->
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
