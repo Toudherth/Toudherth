@@ -36,27 +36,4 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="SQL"/> 
-
 </p
-
-
-
-## Github Stats
-![Statistiques GitHub](lien_vers_vos_statistiques_GitHub)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
