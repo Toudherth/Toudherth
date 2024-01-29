@@ -18,9 +18,16 @@
 
 <p align="center">
   <!-- Ici, vous pouvez ajouter des badges ou des images pour représenter vos compétences -->
-  <img src="link_to_your_badge_or_icon.png" alt="badge_alt_text"/>
+  <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" alt="badge_alt_text"/>
   <!-- Répétez la ligne ci-dessus pour chaque compétence ou badge -->
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
 
 ## Github Stats
 ![Statistiques GitHub](lien_vers_vos_statistiques_GitHub)
