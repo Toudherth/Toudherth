@@ -16,6 +16,12 @@
 ![Node.js](lien_vers_image_nodejs)
 ... et ainsi de suite pour chaque compétence
 
+<p align="center">
+  <!-- Ici, vous pouvez ajouter des badges ou des images pour représenter vos compétences -->
+  <img src="link_to_your_badge_or_icon.png" alt="badge_alt_text"/>
+  <!-- Répétez la ligne ci-dessus pour chaque compétence ou badge -->
+</p>
+
 ## Github Stats
 ![Statistiques GitHub](lien_vers_vos_statistiques_GitHub)
 
