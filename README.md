@@ -7,7 +7,7 @@
 
 
 * 🌱 Developpeuse FullStack chez @Atos
-* 🎓 Master Génie Logiciel
+* 🎓 Master Génie Logiciel Université de Montpellier | Master 2 GL Université de Béjaia
 * 🌐 [Mon portfolio](https://portfolio-toudherths-projects.vercel.app/)
 
 ## Mes compétences
